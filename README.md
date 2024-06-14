@@ -5,7 +5,7 @@
 	#addTodo() function adds the task to the todos array and updates the displayed list.
 
 ##Rendering Tasks:
-	#renderTodos(tasks) function displays the tasks by creating <li> elements and appending them to the <ul> element.
+	#renderTodos(tasks) function displays the tasks by creating <.li> elements and appending them to the <.ul> element.
 
 ##Deleting a Task:
 	#The user clicks the "Delete" button next to a task.
